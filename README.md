@@ -3,7 +3,7 @@
 Clone repo and checkout to branch
 
 ```
-git clone https://github.com/zolotyh/gcc-examples.git && cd gcc-examples && git checkout  browserify
+git clone https://github.com/zolotyh/gcc-examples.git && cd gcc-examples && git checkout commonjs
 ```
 
 Install packages and start like this:
@@ -22,7 +22,7 @@ npm install && npm start
 Склонируйте репозиторий и переключитесь в нужную ветку
 
 ```
-git clone https://github.com/zolotyh/gcc-examples.git && cd gcc-examples && git checkout  browserify
+git clone https://github.com/zolotyh/gcc-examples.git && cd gcc-examples && git checkout commonjs
 ```
 
 Поставьте зависимости и старутйте так:

@@ -4,7 +4,7 @@
   "main": "index.js",
   "author": "Alexey Zolotykh <aazolotyh@gmail.com>",
   "scripts": {
-    "start": "browserify index.js | google-closure-compiler"
+    "start": "npx google-closure-compiler ./src/**/*.js --process_common_js_modules"
   },
   "license": "MIT",
   "dependencies": {
