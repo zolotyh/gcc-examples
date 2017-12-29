@@ -1,6 +1,12 @@
 # English
 
-Just type into console
+Clone repo and checkout to branch
+
+```
+git clone https://github.com/zolotyh/gcc-examples.git && cd gcc-examples && git checkout  browserify
+```
+
+Install packages and start like this:
 
 ```sh
 yarn && yarn start
@@ -13,13 +19,19 @@ npm install && npm start
 
 # Русский
 
-Просто вбейте в консоль:
+Склонируйте репозиторий и переключитесь в нужную ветку
+
+```
+git clone https://github.com/zolotyh/gcc-examples.git && cd gcc-examples && git checkout  browserify
+```
+
+Поставьте зависимости и старутйте так:
 
 ```sh
 yarn && yarn start
 ```
 
-или
+или так:
 
 ```sh
 npm install && npm start
